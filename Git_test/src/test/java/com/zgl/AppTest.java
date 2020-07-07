@@ -16,6 +16,6 @@ public class AppTest {
         assertTrue(true);
         
         System.out.println("hello");
-        System.out.println("分支。。。。。。");
+        System.out.println("主干。。。。。。");
     }
 }
